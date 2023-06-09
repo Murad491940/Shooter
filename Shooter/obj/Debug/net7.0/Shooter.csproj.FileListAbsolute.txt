@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Shooter\Shooter\bin\Debug\net7.0\Shooter.exe
+C:\Users\User\source\repos\Shooter\Shooter\bin\Debug\net7.0\Shooter.deps.json
+C:\Users\User\source\repos\Shooter\Shooter\bin\Debug\net7.0\Shooter.runtimeconfig.json
+C:\Users\User\source\repos\Shooter\Shooter\bin\Debug\net7.0\Shooter.dll
+C:\Users\User\source\repos\Shooter\Shooter\bin\Debug\net7.0\Shooter.pdb
+C:\Users\User\source\repos\Shooter\Shooter\obj\Debug\net7.0\Shooter.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Shooter\Shooter\obj\Debug\net7.0\Shooter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Shooter\Shooter\obj\Debug\net7.0\Shooter.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Shooter\Shooter\obj\Debug\net7.0\Shooter.AssemblyInfo.cs
+C:\Users\User\source\repos\Shooter\Shooter\obj\Debug\net7.0\Shooter.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Shooter\Shooter\obj\Debug\net7.0\Shooter.dll
+C:\Users\User\source\repos\Shooter\Shooter\obj\Debug\net7.0\refint\Shooter.dll
+C:\Users\User\source\repos\Shooter\Shooter\obj\Debug\net7.0\Shooter.pdb
+C:\Users\User\source\repos\Shooter\Shooter\obj\Debug\net7.0\Shooter.genruntimeconfig.cache
+C:\Users\User\source\repos\Shooter\Shooter\obj\Debug\net7.0\ref\Shooter.dll
